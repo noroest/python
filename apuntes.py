@@ -1,0 +1,1 @@
+print("l'uomo mangia il mela")
